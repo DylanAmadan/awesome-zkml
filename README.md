@@ -72,6 +72,7 @@ We are organizing bi-weekly ZKML community calls. For details on when and where 
 - [Modulus blog](https://medium.com/@ModulusLabs)
 - [Giza blog](https://www.gizatech.xyz/blog)
 - [The promise and challenges of crypto + AI applications - Vitalik Buterin](https://vitalik.eth.limo/general/2024/01/30/cryptoai.html)
+- [Why AI Needs Zero-Knowledge Proofs]([url](https://medium.com/verum-capital-insights/why-ai-needs-zero-knowledge-proofs-957ec72627b9)) 
 
 ## Codebases
 
